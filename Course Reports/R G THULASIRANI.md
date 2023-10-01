@@ -25,5 +25,3 @@ Below is a table summarizing the mini projects and final project completed durin
 |-------------------------------------------|-----------------------------------------|
 | Mini Projects: Student Marks Prediction using Machine Learning Models     | [Click here](https://github.com/Thulasiranirg/G27_PYTHON/tree/main/Mini%20Projects/R.G.Thulasirani)                         |
 | Final Project: Bank Marketing Prediction using Machine Learning Models      | [Click here](https://github.com/sure-trust/G27_PYTHON/tree/main/Final%20Capstone%20Project/R.G.Thulasirani)                         |
-                       |
-
