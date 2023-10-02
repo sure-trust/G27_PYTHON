@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Project Link]                         |
+| Mini Projects: Student Performance Prediction by using machine learning models     | [click here](https://github.com/Kckarthik2003/G27_PYTHON/blob/main/Mini%20Projects/K.C.Karthik/mini%20project_kckarthik.ipynb)                         |
 | Final Project: Banking Campaign Predictions by using machine learning models   | [click here](https://github.com/sure-trust/G27_PYTHON/tree/main/Final%20Capstone%20Project/K.C.Karthik)                         |
