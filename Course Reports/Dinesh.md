@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Project Link]                         |
+| Mini Projects: Student Performance Prediction     | [click here](https://github.com/dinesh1921/G27_PYTHON/tree/main/Mini%20Projects/Dinesh)                         |
 | Final Project: Banking campaign Predictions using Machine Learning Models      | [click here](https://github.com/sure-trust/G27_PYTHON/tree/main/Final%20Capstone%20Project/Dinesh)                         |
