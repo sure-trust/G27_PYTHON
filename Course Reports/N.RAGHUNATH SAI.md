@@ -6,14 +6,14 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> Course name </h2>
+  <h2> Python & Machine Learning Basic Applications </h2>
 </div>
 
 # Course Report
 
 ## Name: N.Raghunath sai
 
-## Qualifications: Pursuing B.Tech 3rd year
+## Qualifications: Pursuing 3rd year b.tech
 
 Welcome to the course report for the Python & Machine Learning Basic Applications! This README document provides an overview of the course, its mini projects and final project.
 
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Student marks analysis]     | [Click here] (https://github.com/sure-trust/G27_PYTHON/tree/main/Mini%20Projects/N.Raghunath%20Sai)                        |
-| Final Project: [Bank data analysis]         | [Click here] (https://github.com/sure-trust/G27_PYTHON/tree/main/Final%20Capstone%20Project/N.Raghunath%20Sai)                        |
+| Mini Projects: [students marks analysis]     | [click here] (https://github.com/sure-trust/G27_PYTHON/tree/main/Mini%20Projects/N.Raghunath%20Sai)                       |
+| Final Project: [bank data analysis]     | [click here] (https://github.com/sure-trust/G27_PYTHON/tree/main/Final%20Capstone%20Project/N.Raghunath%20Sai)                        |
