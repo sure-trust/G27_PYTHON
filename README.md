@@ -19,6 +19,13 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 To enroll in the Python, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/43)
 
+|Student name | Link |
+|-------------|------|
+|Dinesh|[Click Here](https://github.com/sure-trust/G27_PYTHON/blob/main/Course%20Reports/Dinesh.md)|
+|K.C.Karthik|[Click Here](https://github.com/sure-trust/G27_PYTHON/blob/main/Course%20Reports/K.C.Karthik.md)|
+|Lakshmi Harika|[Click Here](https://github.com/sure-trust/G27_PYTHON/blob/main/Course%20Reports/M.Lakshmi%20Harika.md)|
+|R.G.Thulasirani|[Click Here](https://github.com/sure-trust/G27_PYTHON/blob/main/Course%20Reports/R%20G%20THULASIRANI.md)|
+
 ## Repository Description
 
 This repository is designed to support the G27 Python program at SURE Trust. It follows the below mentioned organization structure:
