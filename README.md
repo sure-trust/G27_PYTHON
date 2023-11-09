@@ -17,7 +17,7 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 ## Python Course Registration
 
-To enroll in the Python, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/43)
+To enroll in the Python, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
 
 |Student name | Link |
 |-------------|------|
